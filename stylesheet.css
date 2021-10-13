@@ -31,7 +31,7 @@ body,html{
  background-position: center;
  background-size: cover;
  width: 100%;
- height: 30vh;
+ height: 60vh;
 }
 .img::before{
  content: '';
