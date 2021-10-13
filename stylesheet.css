@@ -35,4 +35,4 @@ body,html{
 .img::before{
  content: '';
  display: block;
- padding-top: 10%;
+ padding-top: 50%;
