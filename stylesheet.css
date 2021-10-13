@@ -29,7 +29,7 @@ body,html{
  background-image: url(https://github.com/Creapct/creapct.github.io/blob/main/IMG_3043.jpeg?raw=true);
  background-position: center;
  background-size: cover;
- width: 60%;
+ width: 100%;
  height: 5vh;
 }
 .img::before{
