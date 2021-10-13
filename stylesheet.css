@@ -1,12 +1,12 @@
 button{
- display:inline-block;
- padding:40px 30px;
- background:#d13415;
- text-align:center;
- color:transparent;
- margin:45px;
- border:1px solid;
- cursor:pointer;
- font-size:40px; 
+display:inline-block;
+padding:40px 30px;
+background:#d13415;
+text-align:center;
+color:transparent;
+margin:45px;
+border:1px solid;
+cursor:pointer;
+font-size:40px; 
 }
 
