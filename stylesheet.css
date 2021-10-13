@@ -1,13 +1,13 @@
 button{
-display:inline-block;
-padding:40px 30px;
-text-align:center;
-color:transparent;
-margin:45px;
-border:1px solid;
-cursor:pointer;
-font-size:40px;
-background: repeating-linear-gradient( 45deg, #FF3D00 0 0.4em, #0091EA 0.4em 0.8em);
+ display:inline-block;
+ padding:40px 30px;
+ text-align:center;
+ color:transparent;
+ margin:45px;
+ border:1px solid;
+ cursor:pointer;
+ font-size:40px;
+ background: repeating-linear-gradient( 45deg, #FF3D00 0 0.4em, #0091EA 0.4em 0.8em);
 	-webkit-background-clip: text;  
 }
 
